@@ -1,6 +1,8 @@
 # JavaScript-Quiz
-This is the project to build a quiz using JavaScript.  
+This is the project to build a quiz using JavaScript.  You can find how to check the answer of questions using javascript forEach() and using setInterval and clearInteval method. 
 
+# Link
+https://quiz-using-javascript.web.app/
 
 # index.html 
 
